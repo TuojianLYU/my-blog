@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "This is the blog for my studying1"
+date:   2020-12-25 11:40:5
+category: Studying
+---
 # How to build your website via github pages
 
 ---

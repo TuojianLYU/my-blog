@@ -30,7 +30,8 @@ twitter_username: tuojianlyu
 github_username:  tuojianlyu
 
 # Build settings
-theme: minima
+# theme: minima
+# removed minima theme as it is now a regular theme
 plugins:
   - jekyll-feed
 
